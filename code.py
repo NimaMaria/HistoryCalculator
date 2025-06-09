@@ -46,7 +46,7 @@ while True:
         elif d == '2':
             history_mode(history)
         else:
-            print('Invalid input. Try again')
+            print('Invalid input. Try again.')
 
 
 
