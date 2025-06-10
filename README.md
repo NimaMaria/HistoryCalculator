@@ -1,5 +1,5 @@
 <h1>Simple Calculator With History</h1>
-<hr>
+
 <p><i><b>A mini Python project</b> that evaluates expressions. It takes input expressions, evaluates them, displays the result and shows both the result in a history. You can view the history or delete the most recent entry.</i></p>
 <hr>
 <h3>✨Featues</h3>
